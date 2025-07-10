@@ -9,7 +9,7 @@ Hello, my name is Zidan. I'm currently in my 2nd semester of studying Informatic
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![PowerDesigner](https://img.shields.io/badge/Power%20Designer-4479A1?style=for-the-badge&logo=sap&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MochZidann&theme=merko&hide_border=true&show_icons=true&include_all_commits=true&count_private=true) </br>
+![](https://github-readme-stats.vercel.app/api?username=MochZidann&theme=merko&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1000) </br>
 ![](https://git-hub-streak-stats.vercel.app/?user=MochZidann&theme=merko&hide_border=true) </br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MochZidann&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
