@@ -1,5 +1,5 @@
 # 🍃 About Me:
-Hello, my name is Zidan. I'm currently in my 2nd semester of studying Informatics Management. I'm passionate about tech and always eager to learn something new.
+Hello, my name is Zidan. I'm currently in my 3rd semester of studying Informatics Management. I'm passionate about tech and always eager to learn something new.
 
 ## 🌐 Socials:
 
